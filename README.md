@@ -55,11 +55,13 @@ simple_browser.py
     PyQt6.QtWebEngineWidgets - Web browsing functionality
     PyQt6.QtCore - URL handling
 
+
 ## Screenshot
 
-    ![pic 1](./browser1.png)
-    ![pic 2](./browser2.png)
-    ![pic 3](./browser3.png)
+![pic 1](./browser1.png)
+![pic 2](./browser2.png)
+![pic 3](./browser3.png)
+    
     The browser window is created using QMainWindow
     Web content is rendered with QWebEngineView
     Navigation controls are implemented with QPushButton
