@@ -30,7 +30,7 @@ pip install PyQt6 PyQt6-WebEngine
 2. Navigate to the project directory
 3. Run the browser:
 
-python simple_browser.py
+python browser.py
 
 4. Enter a URL in the text field and press Enter to navigate
 5. Use the navigation buttons to:
