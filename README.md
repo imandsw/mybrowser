@@ -40,7 +40,7 @@ python browser.py
 
 ## Code Structure
 ```python
-simple_browser.py
+browser.py
 ├── SimpleBrowser class
 │   ├── __init__ - Initializes window and widgets
 │   └── load_url - Handles URL loading
