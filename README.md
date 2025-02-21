@@ -1,9 +1,6 @@
 # mybrowser
 MyBrowser is a simple, fast, and minimal web browser built for efficiency. Designed with a clean UI and essential browsing features, it offers a lightweight alternative to mainstream browsers.
 
-Here's the complete README content in a single block that you can copy all at once:
-markdown
-
 # Simple Python Browser
 
 A basic web browser built with Python and PyQt6, featuring a URL bar and basic navigation controls.
