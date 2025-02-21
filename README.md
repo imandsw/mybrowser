@@ -48,14 +48,14 @@ simple_browser.py
 │   ├── __init__ - Initializes window and widgets
 │   └── load_url - Handles URL loading
 └── Main execution block
-
-Dependencies
+```
+## Dependencies
 
     PyQt6.QtWidgets - GUI components
     PyQt6.QtWebEngineWidgets - Web browsing functionality
     PyQt6.QtCore - URL handling
 
-Screenshot
+## Screenshot
 
     ![](/browser1.png)
     ![](/browser2.png)
@@ -66,7 +66,7 @@ Screenshot
     URL input uses QLineEdit with Enter key detection
     Layout is managed with QVBoxLayout
 
-Limitations
+## Limitations
 
     No bookmark functionality
     No tab support
