@@ -57,9 +57,9 @@ simple_browser.py
 
 ## Screenshot
 
-    ![](/browser1.png)
-    ![](/browser2.png)
-    ![](/browser3.png)
+    ![](browser1.png)
+    ![](browser2.png)
+    ![](browser3.png)
     The browser window is created using QMainWindow
     Web content is rendered with QWebEngineView
     Navigation controls are implemented with QPushButton
